@@ -1,0 +1,21 @@
+.container {
+    width: 20%;
+    box-shadow: 0 3px 20px rgba(0,0,0,0.3);
+    padding: 30px;
+    text-align: center;
+    margin: auto;
+    margin-top: 13%;
+}
+
+btnSub {
+    width: 40%;
+    margin-top: 15px;
+    margin-left: 40px;
+    margin-right: 10px;
+}
+
+.login {
+    padding: 10px;
+}
+
+
